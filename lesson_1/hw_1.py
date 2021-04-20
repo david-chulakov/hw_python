@@ -1,0 +1,6 @@
+string = input("Введите строку ")
+print(f"{string} - это тип данных string")
+num1 = int(input("Введите целое число "))
+print(f"{num1} - это тип данных int")
+num2 = float(input("Введите десятичное число "))
+print(f"{num2} - это тип данных float")
