@@ -1,3 +1,5 @@
+# Не смог обьединить словари
+
 
 def create_analytics(list_products):
     for tup in list_products:
